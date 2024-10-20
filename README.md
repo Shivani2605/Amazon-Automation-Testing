@@ -5,28 +5,48 @@ Amazon Automation Testing using Selenium with Python
 •	To verify that the search functionality on Amazon correctly handles a search for a non-existing product and returns appropriate results.
 
 •	To verify that the search functionality on amazon correctly handles a search for a existing product (e.g. Laptop) and returns appropriate results
+
 •	To verify the “Add to cart” functionality 
+
 •	To verify the functionality of “Add a product” to the cart, then update the quantity to 2
+
 •	To verify the remove functionality of “Add to cart”.
 
-3. Prerequisites
+
+2. Prerequisites
+   
 •	Python installed on the testing machine.
+
 •	Selenium library installed (pip install selenium).
+
 •	WebDriver for the browser you intend to use (e.g., ChromeDriver for Google Chrome).
+
 •	Visual Studio
+
 •	An Amazon account 
 
-4. Test Environment
+
+3. Test Environment
+   
 •	Operating System: Window
+
 •	Browser: Google Chrome (or any other supported browser)
+
 •	Python Version: 3.x
+
 •	Selenium Version: latest stable release
 
-5. Code Setup
+
+4. Code Setup
+   
 •	Install Python: Make sure you have Python installed on your machine. You can download it from the official Python website.
+
 •	Install Selenium: You can install the Selenium package using pip. Open your terminal or command prompt and run: pip install selenium
+
 •	Download WebDriver: Depending on the browser you plan to use, you'll need the corresponding WebDriver.
+
 •	For Chrome: Download ChromeDriver that matches your installed Chrome version. Make sure to place the chromedriver executable in a directory included in your system's PATH, or specify the path in your code.
+
 •	Set Up Your Project Directory: Create a new directory for your Selenium project. Inside that directory e.g. Amazon_automation_testing.py
 
 6.	Running the Test
