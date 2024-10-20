@@ -47,9 +47,10 @@ Amazon Automation Testing using Selenium with Python
    
    •	For Chrome: Download ChromeDriver that matches your installed Chrome version. Make sure to place the chromedriver executable in a directory included in your system's PATH, or specify the path in your code.
    
-   •	Set Up Your Project Directory: Create a new directory for your Selenium project. Inside that directory e.g. Amazon_automation_testing.py
+   •	Set Up Your Project Directory: Execute git clone https://github.com/Shivani2605/Amazon-Automation-Testing.git
+   
 
-5.	Running the Test
+6.	Running the Test
    
    •	Open a terminal or command prompt.
    
